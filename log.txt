@@ -1,0 +1,3 @@
+2019-02-14 11:17:14,268 - mini_frame.py[line:254] - INFO: 访问的是，/center.html
+2019-02-14 11:18:16,268 - mini_frame.py[line:254] - INFO: 访问的是，/cente1r.html
+2019-02-14 11:18:16,270 - mini_frame.py[line:270] - WARNING: 没有对应的函数...
